@@ -10,4 +10,4 @@
 
 **Context:** Waiting on a bench, Forrest passes on something his mother always told him.
 
-**Why it endures:** A simple metaphor for life's unpredictability that captures the film's gentle philosophy.
+**Why it endures:** A simple metaphor for life's unpredictability that is beloved in both the US and India—where the story was even officially adapted as *Laal Singh Chaddha* (2022) with Aamir Khan.

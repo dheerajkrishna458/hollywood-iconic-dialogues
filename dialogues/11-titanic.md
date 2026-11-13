@@ -10,4 +10,4 @@
 
 **Context:** Standing at the ship's bow with his arms flung wide, Jack celebrates the thrill of being alive.
 
-**Why it endures:** It captures the film's youthful joy before the disaster. Cameron famously repeated it when accepting his Best Director Oscar.
+**Why it endures:** *Titanic* was a once-in-a-generation box-office phenomenon in both America and India, and this line became universal shorthand for pure, exuberant joy.
