@@ -1,6 +1,14 @@
 # Star Wars: The Empire Strikes Back (1980)
 
-> "No, I am your father."
+> **Darth Vader:** "Obi-Wan never told you what happened to your father."
+>
+> **Luke Skywalker:** "He told me enough! He told me you killed him!"
+>
+> **Darth Vader:** "No, I am your father."
+>
+> **Luke Skywalker:** "No. No. That's not true! That's impossible!"
+>
+> **Darth Vader:** "Search your feelings, you know it to be true."
 
 | | |
 |---|---|

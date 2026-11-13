@@ -1,6 +1,10 @@
 # The Shining (1980)
 
-> "Here's Johnny!"
+> **Jack Torrance:** "Wendy, I'm home!"
+>
+> **Jack Torrance:** "Come out, come out, wherever you are! Little pigs, little pigs, let me come in. Not by the hair on your chinny-chin-chin? Then I'll huff, and I'll puff, and I'll blow your house in!"
+>
+> **Jack Torrance:** "Here's Johnny!"
 
 | | |
 |---|---|

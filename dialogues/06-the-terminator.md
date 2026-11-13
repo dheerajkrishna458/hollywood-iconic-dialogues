@@ -1,6 +1,14 @@
 # The Terminator (1984)
 
-> "I'll be back."
+> **The Terminator:** "I'm a friend of Sarah Connor. I was told she's here. Could I see her, please?"
+>
+> **Desk Sergeant:** "No, you can't see her. She's making a statement."
+>
+> **The Terminator:** "Where is she?"
+>
+> **Desk Sergeant:** "Look, it may take a while. Want to wait? There's a bench over there."
+>
+> **The Terminator:** "I'll be back."
 
 | | |
 |---|---|

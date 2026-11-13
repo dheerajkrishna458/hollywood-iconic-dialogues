@@ -1,6 +1,6 @@
 # Scarface (1983)
 
-> "Say hello to my little friend!"
+> **Tony Montana:** "You fucking cockroaches, come on! You wanna play rough? Okay! Say hello to my little friend!"
 
 | | |
 |---|---|

@@ -2,11 +2,11 @@
 
 A personal collection of 15 famous lines from Hollywood films, one Markdown file per line in [`dialogues/`](dialogues/). The picks are subjective, not an official ranking.
 
-Each file holds the signature line, who said it, and a short note on the scene and why it stuck. Lines are kept short on purpose; this repo does not reproduce full scripts or long monologues, which are copyrighted by their rights holders.
+Each file holds the iconic dialogue exchange, who said it, and a short note on the scene and why it stuck.
 
 | # | Film | Line |
 |---|------|------|
-| 1 | [Gladiator (2000)](dialogues/01-gladiator.md) | "My name is Maximus Decimus Meridius… and I will have my vengeance, in this life or the next." |
+| 1 | [Gladiator (2000)](dialogues/01-gladiator.md) | "My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions, loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next." |
 | 2 | [The Godfather (1972)](dialogues/02-the-godfather.md) | "I'm gonna make him an offer he can't refuse." |
 | 3 | [Casablanca (1942)](dialogues/03-casablanca.md) | "Here's looking at you, kid." |
 | 4 | [Gone with the Wind (1939)](dialogues/04-gone-with-the-wind.md) | "Frankly, my dear, I don't give a damn." |

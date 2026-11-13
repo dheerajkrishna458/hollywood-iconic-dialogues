@@ -1,6 +1,8 @@
 # Gone with the Wind (1939)
 
-> "Frankly, my dear, I don't give a damn."
+> **Scarlett O'Hara:** "Rhett, if you go, where shall I go? What shall I do?"
+>
+> **Rhett Butler:** "Frankly, my dear, I don't give a damn."
 
 | | |
 |---|---|

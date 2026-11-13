@@ -1,6 +1,6 @@
 # Forrest Gump (1994)
 
-> "Life was like a box of chocolates. You never know what you're gonna get."
+> **Forrest Gump:** "Hello. My name's Forrest, Forrest Gump. Do you want a chocolate? I could eat about a million and a half of these. My mama always said life was like a box of chocolates. You never know what you're gonna get."
 
 | | |
 |---|---|

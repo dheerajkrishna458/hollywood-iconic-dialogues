@@ -1,6 +1,14 @@
 # A Few Good Men (1992)
 
-> "You can't handle the truth!"
+> **Col. Nathan R. Jessup:** "You want answers?"
+>
+> **Lt. Daniel Kaffee:** "I think I'm entitled to them."
+>
+> **Col. Nathan R. Jessup:** "You want answers?!"
+>
+> **Lt. Daniel Kaffee:** "I want the truth!"
+>
+> **Col. Nathan R. Jessup:** "You can't handle the truth!"
 
 | | |
 |---|---|

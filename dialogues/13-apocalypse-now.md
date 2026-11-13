@@ -1,6 +1,10 @@
 # Apocalypse Now (1979)
 
-> "I love the smell of napalm in the morning."
+> **Lt. Col. Bill Kilgore:** "Smell that? You smell that?"
+>
+> **Lance:** "What?"
+>
+> **Lt. Col. Bill Kilgore:** "Napalm, son. Nothing else in the world smells like that. I love the smell of napalm in the morning. You know, one time we had a hill bombed, for 12 hours. When it was all over, I walked up. We didn't find one of 'em, not one stinkin' dink body. The smell, you know that gasoline smell? The whole hill. Smelled like… victory. Someday this war's gonna end."
 
 | | |
 |---|---|

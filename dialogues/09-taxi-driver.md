@@ -1,6 +1,6 @@
 # Taxi Driver (1976)
 
-> "You talkin' to me?"
+> **Travis Bickle:** "You talkin' to me? You talkin' to me? You talkin' to me? Then who the hell else are you talkin'—you talkin' to me? Well, I'm the only one here. Who the fuck do you think you're talking to?"
 
 | | |
 |---|---|

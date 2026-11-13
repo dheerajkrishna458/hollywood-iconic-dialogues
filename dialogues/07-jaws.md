@@ -1,6 +1,10 @@
 # Jaws (1975)
 
-> "You're gonna need a bigger boat."
+> **Chief Martin Brody:** "You're gonna need a bigger boat."
+>
+> **Matt Hooper:** "Did you see that? Look at the size of him! Twenty-footer!"
+>
+> **Quint:** "Twenty-five. Three tons of him."
 
 | | |
 |---|---|

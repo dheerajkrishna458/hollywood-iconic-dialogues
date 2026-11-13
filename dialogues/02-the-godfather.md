@@ -1,6 +1,12 @@
 # The Godfather (1972)
 
-> "I'm gonna make him an offer he can't refuse."
+> **Johnny Fontane:** "Oh, Godfather, I don't know what to do. I don't know what to do."
+>
+> **Vito Corleone:** "You can act like a man! What's the matter with you? Is this how you turned out, a Hollywood finocchio that cries like a woman? 'What can I do?! What can I do?!' What is that nonsense? Ridiculous!"
+>
+> **Johnny Fontane:** "Godfather, a month ago he bought the movie rights to this book, a bestseller, and the main character, it's a guy just like me. I wouldn't even have to act, just be myself. Oh, Godfather, I don't know what to do."
+>
+> **Vito Corleone:** "I'm gonna make him an offer he can't refuse."
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Titanic (1997)
 
-> "I'm the king of the world!"
+> **Jack Dawson:** "Look at that! Look at that! I'm the king of the world! Woo-hoo-hoo!"
 
 | | |
 |---|---|
